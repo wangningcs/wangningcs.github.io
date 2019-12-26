@@ -1,7 +1,7 @@
 # 王宁 (Ning Wang)  
 
 <p style="width:700px;">
-    <img src="/zhigang.jpg" align="right" width="120" hspace="5" vspace="5">
+    <img src="/wangning.jpg" align="right" width="120" hspace="5" vspace="5">
     现工作于中国海洋大学计算机科学与技术系。本硕博毕业于东北大学，导师为<a href="http://faculty.neu.edu.cn/yuge/">于戈教授</a>，曾赴新加坡南洋理工大学(NTU)进行为期一年的CSC联合培养博士学习，导师为<a href="https://www.comp.nus.edu.sg/~xiaoxk/index.html">Prof. Xiaokui Xiao</a>，并于新加坡国立大学(NUS)计算机学院担任研究助理；主要研究方向为<u>大数据安全</u>、<u>差分隐私保护</u>以及<u>本地化差分隐私保护</u>；已在IEEE ICDE等国际顶级会议与期刊发表学术论文8篇，主持国家、省部级课题3项、参与多项.
 </p>
 
