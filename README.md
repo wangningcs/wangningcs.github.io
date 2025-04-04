@@ -34,15 +34,21 @@
 * 广东省大数据专委委员     
 
 ## 科研项目
-[2021-2023] 密码技术与信息安全教育部重点实验室开放课题“基于混洗差分隐私模型的多属性数据发布技术研究”，6万，**负责人**
+[2021-2023] 密码技术与信息安全教育部重点实验室开放课题“基于混洗差分隐私模型的多属性数据发布技术研究”，6万，**负责人**  
 [2020-2022] NSFC-青年 “基于本地化差分隐私的高效用频繁模式挖掘技术研究”(61902365)，27万，**负责人**  
 [2019-2022] 青岛市博士后应用研究项目 “隐私保护技术下的频繁字符串挖掘技术研究”，5万，**负责人**  
 [2019-2021]	中国博士后科学基金面上项目 “基于本地化差分隐私模型的频繁字符串挖掘技术研究”(2019M652473)，8万，**负责人**  
 
 ## 发表论文   
-* <u>Ning Wang</u>. PrivNUD: Effective Range Query Processing under Local Differential Privacy[C], ICDE, 2023.
-* <u>Ning Wang</u>, Zhigang Wang, Yu Gu, Jia Xu, Zhiqiang Wei, Ge Yu. Differentially Private Top-k Frequent Columns Publication for High-Dimensional Data [J], IEEE Access, 2019, accepted. <span style="color:red;">**New!**</span>  
-* <u>Ning Wang</u>, Zhigang Wang∗, Yu Gu, Yubin Bao, Ge Yu. TSH: Easy-to-be distributed partitioning for large-scale graphs [J], Future Generation Computer Systems (FGCS), 2019, 101:804-818 (SCI, IF=5.768, 中科院一区，CCF Rank-C) <span style="color:red;">**New!**</span>   
+* <u>Ning Wang</u>, Yaohua Wang, Zhigang Wang, Jie Nie, Zhiqiang Wei, Peng Tang, Yu Gu, Ge Yu. PrivNUD: Effective Range Query Processing under Local Differential Privacy[C]. IEEE International Conference on Data Engineering(ICDE), 2023, pp. 2660-2672. (CCF-A)
+*  刘艺菲,<u> 王宁*</u>, 王志刚, 谷峪, 魏志强, 张啸剑, 于戈. 混洗差分隐私模型下的多维类别数据的收集与分析[J]. 软件学报, 2022, 33(3):1093-1110. (CCF-A类中文)
+*  Ning Wang, Jian Zhuang, Zhigang Wang, Zhiqiang Wei, Yu Gu, Peng Tang, Ge Yu. Multidimensional categorical data collection under shuffled differential privacy[J]. Computer&Security, 2025, 151(2025):1-13.
+* <u>Ning Wang</u>, Zhigang Wang∗, Yu Gu, Yubin Bao, Ge Yu. TSH: Easy-to-be distributed partitioning for large-scale graphs [J], Future Generation Computer Systems (FGCS), 2019, 101:804-818 (SCI, IF=5.768, 中科院一区，CCF Rank-C)
+* Ning Wang, Wei Zheng, Zhigang Wang, Zhiqiang Wei, Yu Gu, Peng Tang, and Ge Yu. Collecting and analyzing key-value data under shuffled differential privacy[J]. Frontier of Computer Science(FCS), 2022, 17(2):172606. (CCF-B)
+* Xinglin Du, Peng Tang, Rui Chen, Ning Wang, Chengyu Hu, Shanqing Guo. Query Rewriting-Based View Generation for Efficient Multi-Relation Multi-Query with Differential Privacy[C]. The 28th International Conference on Extending Database Technology(EDBT), 2025, 1-13. (CCF-B)
+* Kunpeng Song, Mingzhang Sun, Kui Zhou, Peng Tang, Ning Wang, Shanqing Guo. Multi-Dimensional Data Collection Under Personalized Local Differential Privacy. The 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2024, 1-10. (CCF-C)
+* Zhigang Wang, Yilei Tu, Ning Wang*, Lixin Gao, Jie Nie, Zhiqiang Wei, Yu Gu, and Ge Yu. FSP: towards flexible synchronous parallel frameworks for distributed machine learning[C]. IEEE Transactions on Parallel and Distributed Systems(TPDS), 2023, pp.687–703. (CCF-A)
+* Zhigang Wang, Zichao Yang, Ning Wang*, Yujie Du, Jie Nie, Zhiqiang Wei, Yu Gu, Ge Yu. Lightweight Streaming Graph Partitioning by Fully Utilizing Knowledge from Local View [C]. The 43rd IEEE International Conference on Distributed Computing Systems (ICDCS), 2023, pp. 614-625 (CCF-B)
 * <u>Ning Wang</u>, Xiaokui Xiao, Yin Yang, Jun Zhao, Siu Cheung Hui, Hyejin Shin, Junbum Shin, Ge Yu. Collecting and Analyzing Multidimensional Data with Local Differential Privacy [C]. IEEE International Conference on Data Engineering (**ICDE**), 2019, 638-649. (**CCF Rank-A**)   
 * <u>Ning Wang</u>, Yu Gu, Jia Xu, Fangfang Li, Ge Yu. Differentially Private High Dimensional Data Publication via Grouping and Truncating Techniques [J]. Frontier of Computer Science (FCS), 2019, 13(2): 392-395. (SCI, CCF Rank-C)   
 * <u>Ning Wang</u>, Xiaokui Xiao, Yin Yang, Ta Duy Hoang, Hyejin Shin, Junbum Shin, Ge Yu. PrivTrie: Effective Frequent Term Discovery under Local Differential Privacy [C]. IEEE International Conference on Data Engineering (**ICDE**), 2018, 821-832. (**CCF Rank-A**)   
