@@ -2,7 +2,7 @@
 
 <p style="width:700px;">
     <img src="/figure.jpg" align="right" width="120" hspace="5" vspace="5">
-    副教授，现工作于广州大学-网络空间安全学院。本硕博毕业于东北大学，导师为<a href="http://faculty.neu.edu.cn/yuge/">于戈教授</a>，曾赴新加坡南洋理工大学(NTU)进行为期一年的CSC联合培养博士学习，导师为<a href="https://www.comp.nus.edu.sg/~xiaoxk/index.html">Prof. Xiaokui Xiao</a>，并于新加坡国立大学(NUS)计算机学院担任研究助理；主要研究方向为<u>大数据安全</u>、<u>网络安全</u>以及<u>大模型安全防护</u>；已在IEEE ICDE等国际顶级会议与期刊发表学术论文8篇，主持国家、省部级课题3项、参与多项.
+    副教授，现工作于广州大学-网络空间安全学院。本硕博毕业于东北大学，导师为<a href="http://faculty.neu.edu.cn/yuge/">于戈教授</a>，曾赴新加坡南洋理工大学(NTU)进行为期一年的CSC联合培养博士学习，导师为<a href="https://www.comp.nus.edu.sg/~xiaoxk/index.html">Prof. Xiaokui Xiao</a>，并于新加坡国立大学(NUS)计算机学院担任研究助理；主要研究方向为<u>大数据安全</u>、<u>网络安全</u>以及<u>大模型安全防护</u>；已在IEEE ICDE等国际顶级会议与期刊发表学术论文8篇，主持国家、省部级课题3项、参与多项. **招收对相关方向感兴趣的研究生！**
 </p>
 
 ——————————————————————————————————
