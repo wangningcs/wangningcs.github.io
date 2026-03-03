@@ -45,8 +45,8 @@
 ## 发表论文   
 * <u>Ning Wang</u>, Huaibei Li, Shen Su, Yu Gu, Ge Yu, Zhigang Wang, Dawei Zhao, Hui Lu, Zhihong Tian. C$^2$graph: A Compression-Collaboration Algorithm for CPU-GPU Hybrid Weighted Graph Traversals[C]. IEEE International Conference on Data Engineering(ICDE), 2026. (CCF-A)
 * Zhigang Wang, Yizhen Yu, Mingxin Li, Jian~Lou, Ning Wang, Yu Gu, Shen Su, Yuan Liu, Hui Jiang, Zhihong Tian. FELEMN: Toward Efficient Feature-Level Machine Unlearning for Exact Privacy Protection[J]. TKDE, 2025. (CCF-A)
-*Zhigang Wang, Xu Zhang, Ning Wang, Chuanfei Xu, Yu Gu, Hui Lu, Dawei Zhao, and Zhihong Tian. Accelerating Heterogeneous Tensor Parallelism via Flexible Workload Control[J]. TBD, 2025. (CCF-B)
-*Zhigang~Wang, Gongtai~Sun, Ning~Wang, Lixin~Gao, Chuanfei~Xu, Yu~Gu, Ge~Yu, Zhihong~Tian. Lightweight Graph Partitioning Enhanced by Implicit Knowledge[J]. TC, 2025. (CCF-A)
+* Zhigang Wang, Xu Zhang, Ning Wang, Chuanfei Xu, Yu Gu, Hui Lu, Dawei Zhao, and Zhihong Tian. Accelerating Heterogeneous Tensor Parallelism via Flexible Workload Control[J]. TBD, 2025. (CCF-B)
+* Zhigang~Wang, Gongtai~Sun, Ning~Wang, Lixin~Gao, Chuanfei~Xu, Yu~Gu, Ge~Yu, Zhihong~Tian. Lightweight Graph Partitioning Enhanced by Implicit Knowledge[J]. TC, 2025. (CCF-A)
 * Xinglin Du, Peng Tang, Rui Chen, Ning Wang, Chengyu Hu, Shanqing Guo:
 Query Rewriting-Based View Generation for Efficient Multi-Relation Multi-Query with Differential Privacy. EDBT 2025: 576-588. (CCF-B)
 * Shuyi Lang, Peng Tang, Ning Wang, Yipeng Teng, Shanqing Guo. PriTree: Accurate Range Queries via Hierarchical Prefix-Sum Under Local Differential Privacy. APWeb-WAIM (2) 2025: 249-264.(CCF-C)
