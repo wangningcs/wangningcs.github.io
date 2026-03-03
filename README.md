@@ -36,7 +36,7 @@
 
 ## 科研项目
 [2026-2029] NSFC-面上“面向图计算任务下网络拓扑识别攻击的跨机构安全防御技术研究”，50万，**负责人**  
-[2025-2026] 广东省科协青年科技人才培育计划  **负责人**  
+[2025-2026] 广东省科协青年科技人才培育计划，**负责人**  
 [2021-2023] 密码技术与信息安全教育部重点实验室开放课题“基于混洗差分隐私模型的多属性数据发布技术研究”，6万，**负责人**  
 [2020-2022] NSFC-青年 “基于本地化差分隐私的高效用频繁模式挖掘技术研究”(61902365)，27万，**负责人**  
 [2019-2022] 青岛市博士后应用研究项目 “隐私保护技术下的频繁字符串挖掘技术研究”，5万，**负责人**  
@@ -67,4 +67,4 @@ Query Rewriting-Based View Generation for Efficient Multi-Relation Multi-Query w
 * Fangfang Li, <u>Ning Wang</u>, Yu Gu, Zhen Chen. Effective Privacy Preservation over Composite Events with Markov Correlations [C]. WISA, 2016. (EI)     
 
 
-**更新时间：2019/12/21**   
+**更新时间：2026/01/21**   
