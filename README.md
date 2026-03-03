@@ -35,8 +35,8 @@
 * 广东省大数据专委委员     
 
 ## 科研项目
-[2026-2029] NSFC-面上“面向图计算任务下网络拓扑识别攻击的跨机构安全防御技术研究”，50万，**负责人** 
-[2025-2026] 广东省科协青年科技人才培育计划
+[2026-2029] NSFC-面上“面向图计算任务下网络拓扑识别攻击的跨机构安全防御技术研究”，50万，**负责人**  
+[2025-2026] 广东省科协青年科技人才培育计划 **负责人** 
 [2021-2023] 密码技术与信息安全教育部重点实验室开放课题“基于混洗差分隐私模型的多属性数据发布技术研究”，6万，**负责人**  
 [2020-2022] NSFC-青年 “基于本地化差分隐私的高效用频繁模式挖掘技术研究”(61902365)，27万，**负责人**  
 [2019-2022] 青岛市博士后应用研究项目 “隐私保护技术下的频繁字符串挖掘技术研究”，5万，**负责人**  
@@ -44,7 +44,7 @@
 
 ## 发表论文   
 * <u>Ning Wang</u>, Huaibei Li, Shen Su, Yu Gu, Ge Yu, Zhigang Wang, Dawei Zhao, Hui Lu, Zhihong Tian. C$^2$graph: A Compression-Collaboration Algorithm for CPU-GPU Hybrid Weighted Graph Traversals[C]. IEEE International Conference on Data Engineering(ICDE), 2026. (CCF-A)
-* Zhigang~Wang, Yizhen~Yu, Mingxin~Li, Jian~Lou, Ning~Wang, Yu~Gu, Shen~Su, Yuan~Liu, Hui~Jiang, Zhihong~Tian. FELEMN: Toward Efficient Feature-Level Machine Unlearning for Exact Privacy Protection[J]. TKDE, 2025. (CCF-A)
+* Zhigang Wang, Yizhen Yu, Mingxin Li, Jian~Lou, Ning Wang, Yu Gu, Shen Su, Yuan Liu, Hui Jiang, Zhihong Tian. FELEMN: Toward Efficient Feature-Level Machine Unlearning for Exact Privacy Protection[J]. TKDE, 2025. (CCF-A)
 *Zhigang Wang, Xu Zhang, Ning Wang, Chuanfei Xu, Yu Gu, Hui Lu, Dawei Zhao, and Zhihong Tian. Accelerating Heterogeneous Tensor Parallelism via Flexible Workload Control[J]. TBD, 2025. (CCF-B)
 *Zhigang~Wang, Gongtai~Sun, Ning~Wang, Lixin~Gao, Chuanfei~Xu, Yu~Gu, Ge~Yu, Zhihong~Tian. Lightweight Graph Partitioning Enhanced by Implicit Knowledge[J]. TC, 2025. (CCF-A)
 * Xinglin Du, Peng Tang, Rui Chen, Ning Wang, Chengyu Hu, Shanqing Guo:
