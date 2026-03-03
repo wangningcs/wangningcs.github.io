@@ -15,7 +15,8 @@
 **教授课程：** 网络安全协议设计  
 
 ## 奖励荣誉
-* 2024，广东省计算机学会高等教育教学成果二等奖 <span style="color:red;">**New!**</span>    
+* 2025，广东省科技进步二等奖 <span style="color:red;">**New!**</span>  
+* 2024，广东省计算机学会高等教育教学成果二等奖    
 * 2023，中国计算机学会(CCF)自然科学二等奖 
 * 2021，CCF信息系统专委旗舰会议WISA优秀学生论文奖       
 * 2020，ACM新星奖（青岛片区）   
@@ -34,12 +35,21 @@
 * 广东省大数据专委委员     
 
 ## 科研项目
+[2026-2029] NSFC-面上“面向图计算任务下网络拓扑识别攻击的跨机构安全防御技术研究”，50万，**负责人** 
+[2025-2026] 广东省科协青年科技人才培育计划
 [2021-2023] 密码技术与信息安全教育部重点实验室开放课题“基于混洗差分隐私模型的多属性数据发布技术研究”，6万，**负责人**  
 [2020-2022] NSFC-青年 “基于本地化差分隐私的高效用频繁模式挖掘技术研究”(61902365)，27万，**负责人**  
 [2019-2022] 青岛市博士后应用研究项目 “隐私保护技术下的频繁字符串挖掘技术研究”，5万，**负责人**  
 [2019-2021]	中国博士后科学基金面上项目 “基于本地化差分隐私模型的频繁字符串挖掘技术研究”(2019M652473)，8万，**负责人**  
 
 ## 发表论文   
+* <u>Ning Wang</u>, Huaibei Li, Shen Su, Yu Gu, Ge Yu, Zhigang Wang, Dawei Zhao, Hui Lu, Zhihong Tian. C$^2$graph: A Compression-Collaboration Algorithm for CPU-GPU Hybrid Weighted Graph Traversals[C]. IEEE International Conference on Data Engineering(ICDE), 2026. (CCF-A)
+* Zhigang~Wang, Yizhen~Yu, Mingxin~Li, Jian~Lou, Ning~Wang, Yu~Gu, Shen~Su, Yuan~Liu, Hui~Jiang, Zhihong~Tian. FELEMN: Toward Efficient Feature-Level Machine Unlearning for Exact Privacy Protection[J]. TKDE, 2025. (CCF-A)
+*Zhigang Wang, Xu Zhang, Ning Wang, Chuanfei Xu, Yu Gu, Hui Lu, Dawei Zhao, and Zhihong Tian. Accelerating Heterogeneous Tensor Parallelism via Flexible Workload Control[J]. TBD, 2025. (CCF-B)
+*Zhigang~Wang, Gongtai~Sun, Ning~Wang, Lixin~Gao, Chuanfei~Xu, Yu~Gu, Ge~Yu, Zhihong~Tian. Lightweight Graph Partitioning Enhanced by Implicit Knowledge[J]. TC, 2025. (CCF-A)
+* Xinglin Du, Peng Tang, Rui Chen, Ning Wang, Chengyu Hu, Shanqing Guo:
+Query Rewriting-Based View Generation for Efficient Multi-Relation Multi-Query with Differential Privacy. EDBT 2025: 576-588. (CCF-B)
+* Shuyi Lang, Peng Tang, Ning Wang, Yipeng Teng, Shanqing Guo. PriTree: Accurate Range Queries via Hierarchical Prefix-Sum Under Local Differential Privacy. APWeb-WAIM (2) 2025: 249-264.(CCF-C)
 * <u>Ning Wang</u>, Yaohua Wang, Zhigang Wang, Jie Nie, Zhiqiang Wei, Peng Tang, Yu Gu, Ge Yu. PrivNUD: Effective Range Query Processing under Local Differential Privacy[C]. IEEE International Conference on Data Engineering(ICDE), 2023, pp. 2660-2672. (CCF-A)
 *  刘艺菲,<u> 王宁*</u>, 王志刚, 谷峪, 魏志强, 张啸剑, 于戈. 混洗差分隐私模型下的多维类别数据的收集与分析[J]. 软件学报, 2022, 33(3):1093-1110. (CCF-A类中文)
 *  Ning Wang, Jian Zhuang, Zhigang Wang, Zhiqiang Wei, Yu Gu, Peng Tang, Ge Yu. Multidimensional categorical data collection under shuffled differential privacy[J]. Computer&Security, 2025, 151(2025):1-13.
